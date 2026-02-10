@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello 10 Class!");
+            Console.WriteLine("We are working on dev branch now");
         }
     }
 }
